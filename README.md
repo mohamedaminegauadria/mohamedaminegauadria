@@ -1,7 +1,8 @@
-👋  Hi, I’m @mohamedaminegauadria
+👋 Hi there! I’m @mohamedaminegauadria
 Welcome to my GitHub profile!
   I'm Mohamed Amine Gauadria,
   a dedicated developer with a passion for building innovative tech solutions.
+  Check out what I’m working on and let’s start a conversation!!
 
 👀  I’m interested in  ...
   -  Full-stack web development
