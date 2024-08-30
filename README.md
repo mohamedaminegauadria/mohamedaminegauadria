@@ -1,37 +1,53 @@
-👋 Hi there! It's @mohamedaminegauadria
-Welcome to my GitHub profile!
+#  👋  Hi there! It's @mohamedaminegauadria
 
-	I'm Mohamed Amine Gauadria,
-	a dedicated developer with a passion for building innovative tech solutions.
- 	
-  	>>	Check out what I’m working on and let’s start a collaboration!
+###  Welcome to my GitHub profile!
 
-👀  I’m interested in  ...
+####  I'm Mohamed Amine Gauadria, a dedicated developer with a passion for building innovative tech solutions.
 
-  -  Full-stack web development
-  -  Data science and analytics
-  -  AI and Machine learning
+#####  🔗  Check out what I’m working on and let’s start a collaboration!
 
-🌱  I’m currently learning  ...
+<details>
+  <summary>  <strong>  What am I interested in  ?  🔍  </strong>  </summary>
+  <ul>
+    <br>
+    <li>  <strong>  Full-stack web development  </strong>  </li>
+    <li>  <strong>  Data science and analytics  </strong>  </li>
+    <li>  <strong>  AI and Machine Learning  </strong>  </li>
+  </ul>
+</details>
 
-  -  Advanced algorithms and Data Structures
-  -  Front-End and Back-End Technologies
-  -  The latest advancements in AI and machine learning
-  -  AI ethics and safety
+<details>
+  <summary>  <strong>  What am I currently learning  ?  💻  </strong>  </summary>
+  <ul>
+    <br>
+    <li>  <strong>  Advanced algorithms and Data Structures  </strong>  </li>
+    <li>  <strong>  Front-End and Back-End Technologies  </strong>  </li>
+    <li>  <strong>  Latest advancements in AI and Machine Learning  </strong>  </li>
+    <li>  <strong>  AI ethics and safety  </strong>  </li>
+  </ul>
+</details>
 
-💞️  I’m looking to collaborate on  ...
+<details>
+  <summary>  <strong>  What am I looking to collaborate on  ?  🤝  </strong>  </summary>
+  <ul>
+    <br>
+    <li>  <strong>  High-impact open-source initiatives  </strong>  </li>
+    <li>  <strong>  Open Innovation Challenges and Competitions  </strong>  </li>
+    <li>  <strong>  Innovative tech projects and startups  </strong>  </li>
+  </ul>
+</details>
 
-  -  High-impact open-source initiatives
-  -  Open Innovation Challenges and Competitions
-  -  Innovative tech projects and startups
+<details>
+  <summary>  <strong>  How can we connect  ?  📫  </strong>  </summary>
+  <ul>
+    <br>
+    <li>  <strong>  Twitter  </strong>  :  <a href="https://x.com/gauadria">  https://x.com/gauadria  </a>  </li>
+    <li>  <strong>  LinkedIn  </strong>  :  <a href="https://www.linkedin.com/in/mohamed-amine-gauadria">  https://www.linkedin.com/in/mohamed-amine-gauadria  </a>  </li>
+  </ul>
+</details>
 
-📫  How to reach me  ...
 
-  -  Twitter  :  (https://x.com/gauadria)
-  -  LinkedIn  :  (https://www.linkedin.com/in/mohamed-amine-gauadria)
+####  😄  Pronouns  :  He/Him
 
-😄  Pronouns  :  He/Him
-
-⚡ Fun fact:
-
-  -  I once participated in a regional tech competition, met the Minister of Education on May 15, 2022, and had a great conversation with him!
+####  ⚡  Fun fact  :
+- I once participated in a regional tech competition, met the Minister of Education on May 15, 2022, and had a great conversation with him!
