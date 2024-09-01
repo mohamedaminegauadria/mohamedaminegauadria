@@ -20,10 +20,9 @@
   <summary>  <strong>  What am I currently learning  ?  💻  </strong>  </summary>
   <ul>
     <br>
-    <li>  <strong>  Advanced algorithms and Data Structures  </strong>  </li>
+    <li>  <strong>  Data Structures and Algorithms (DSA)  </strong>  </li>
     <li>  <strong>  Front-End and Back-End Technologies  </strong>  </li>
     <li>  <strong>  Latest advancements in AI and Machine Learning  </strong>  </li>
-    <li>  <strong>  AI ethics and safety  </strong>  </li>
   </ul>
 </details>
 
