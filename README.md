@@ -45,8 +45,5 @@
   </ul>
 </details>
 
-
-####  😄  Pronouns  :  He/Him
-
 ####  ⚡  Fun fact  :
 -  <strong>  I once participated in a regional tech competition, met the Minister of Education on May 15, 2022, and had a conversation with him!  </strong>
