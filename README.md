@@ -40,9 +40,9 @@
   <summary><strong>How can we connect? 📫</strong></summary>
   <ul>
     <br>
-    <a href="https://www.linkedin.com/in/mohamed-amine-gauadria">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
+      <a href="https://www.linkedin.com/in/mohamed-amine-gauadria">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
   </ul>
 </details>
 
